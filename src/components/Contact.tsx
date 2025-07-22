@@ -34,7 +34,7 @@ const Contact = () => {
       icon: Phone,
       title: 'Phone',
       value: '+855 69 902 042',
-      href: 'tel:+85512345678'
+      href: 'tel:+85569902042'
     },
     {
       icon: MapPin,
